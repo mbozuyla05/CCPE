@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alp-app", "alp-app.csproj", "{13E4C0B1-BBF3-41A0-B8CA-876A36B3E523}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CCPE", "..\CCPE\CCPE.vdproj", "{73C95781-9A5E-40D8-9550-C5720EFD7294}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CCPE Setup", "..\CCPE Setup\CCPE Setup.vdproj", "{0EF4C15B-E5CE-4FC4-B509-73952865BBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E4C0B1-BBF3-41A0-B8CA-876A36B3E523}.Debug|x86.ActiveCfg = Debug|x86
+		{13E4C0B1-BBF3-41A0-B8CA-876A36B3E523}.Debug|x86.Build.0 = Debug|x86
+		{13E4C0B1-BBF3-41A0-B8CA-876A36B3E523}.Release|x86.ActiveCfg = Release|x86
+		{13E4C0B1-BBF3-41A0-B8CA-876A36B3E523}.Release|x86.Build.0 = Release|x86
+		{73C95781-9A5E-40D8-9550-C5720EFD7294}.Debug|x86.ActiveCfg = Debug
+		{73C95781-9A5E-40D8-9550-C5720EFD7294}.Release|x86.ActiveCfg = Release
+		{0EF4C15B-E5CE-4FC4-B509-73952865BBF2}.Debug|x86.ActiveCfg = Debug
+		{0EF4C15B-E5CE-4FC4-B509-73952865BBF2}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D10034C-C85C-463E-92F0-7EAEEA046DFD}
+	EndGlobalSection
+EndGlobal
